@@ -1,0 +1,1 @@
+Launch VIM and type ":PluginInstall"
