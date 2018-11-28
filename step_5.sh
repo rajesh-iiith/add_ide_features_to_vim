@@ -1,2 +1,1 @@
-CD "~/.vim/bundle/YouCompleteMe/"
-python install.py
+python ~/.vim/bundle/YouCompleteMe/install.py
